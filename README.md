@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 linkldin account: https://www.linkedin.com/in/iman-aziz-401a44215 
-Twitter Account : https://twitter.com/Peacefu52421047?t=IJQvoHuVZh0NC2mnmXGmBA&s=03
+
+Twitter Account : https://twitter.com/Imanaziz456?t=HvQGB_HOV_xTMFc-2LoG4w&s=03
+
 
 <!---
 1234206/1234206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
