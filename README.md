@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iman Aziz BS CS 3rd Semester student.
+- 👋 Hi, I’m Iman Aziz BS CS 4th Semester student.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning front end development , completed HTML,CSS and javascript courses.
 - 💞️ I’m looking to collaborate on ...
