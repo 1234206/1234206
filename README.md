@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Iman Aziz BS CS 4th Semester student.
+- 👋 Hi, I’m Iman Aziz BS CS student.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning front end development , completed HTML,CSS and javascript courses.
+- 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 linkldin account: https://www.linkedin.com/in/iman-aziz-401a44215 
